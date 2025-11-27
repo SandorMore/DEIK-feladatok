@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574073E4-1192-4F49-B5C2-F6D2F74DC69B}|A menekules\\A menekules.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\A menekules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{574073E4-1192-4F49-B5C2-F6D2F74DC69B}|A menekules\\A menekules.vcxproj|solutionrelative:A menekules\\A menekules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574073E4-1192-4F49-B5C2-F6D2F74DC69B}|A menekules\\A menekules.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{574073E4-1192-4F49-B5C2-F6D2F74DC69B}|A menekules\\A menekules.vcxproj|solutionrelative:A menekules\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\Text.txt",
+              "RelativeDocumentMoniker": "A menekules\\Text.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\Text.txt",
+              "RelativeToolTip": "A menekules\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-27T17:15:41.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A menekules.cpp",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\A menekules.cpp",
+              "RelativeDocumentMoniker": "A menekules\\A menekules.cpp",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\A menekules\\A menekules\\A menekules.cpp",
+              "RelativeToolTip": "A menekules\\A menekules.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T16:58:32.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
