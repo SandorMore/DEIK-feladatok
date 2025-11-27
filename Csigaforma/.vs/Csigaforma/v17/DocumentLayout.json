@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Csigaforma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|solutionrelative:Csigaforma\\Csigaforma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|solutionrelative:Csigaforma\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\OutPut.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{47814E63-AD81-4D23-AB4A-A87296CB8EB5}|Csigaforma\\Csigaforma.vcxproj|solutionrelative:Csigaforma\\OutPut.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Text.txt",
+              "RelativeDocumentMoniker": "Csigaforma\\Text.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Text.txt",
+              "RelativeToolTip": "Csigaforma\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-27T15:04:04.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Csigaforma.cpp",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Csigaforma.cpp",
+              "RelativeDocumentMoniker": "Csigaforma\\Csigaforma.cpp",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\Csigaforma.cpp",
+              "RelativeToolTip": "Csigaforma\\Csigaforma.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "OverriddenGroupName": "Csigaforma",
+              "WhenOpened": "2025-11-27T14:48:34.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutPut.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\OutPut.txt",
+              "RelativeDocumentMoniker": "Csigaforma\\OutPut.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\Csigaforma\\Csigaforma\\OutPut.txt",
+              "RelativeToolTip": "Csigaforma\\OutPut.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "OverriddenGroupName": "Csigaforma",
+              "WhenOpened": "2025-11-27T15:11:47.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
