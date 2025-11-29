@@ -1,3 +1,3 @@
 ﻿  ACL.cpp
-C:\Users\Sanyi\Desktop\DEIK-feladatok\ACL\ACL\ACL.cpp(38,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sanyi\Desktop\DEIK-feladatok\ACL\ACL\ACL.cpp(41,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   ACL.vcxproj -> C:\Users\Sanyi\Desktop\DEIK-feladatok\ACL\x64\Debug\ACL.exe

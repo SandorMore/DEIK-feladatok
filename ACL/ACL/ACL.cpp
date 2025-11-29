@@ -4,7 +4,10 @@
 #include <vector>
 #include <string>
 #include <map>
+#include <chrono>
+
 int main() {
+    auto start = std::chrono::high_resolution_clock::now();
     std::map<std::string, bool> map;
     std::ifstream fs("Text.txt");
     std::ofstream os("Output.txt");
@@ -53,6 +56,9 @@ int main() {
         return 0;
     } else if (map.count("*")) {
         os << map["*"];
+        auto end = std::chrono::high_resolution_clock::now();
+        std::chrono::microseconds duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
+        std::cout << duration.count();
         return 0;
     }
 

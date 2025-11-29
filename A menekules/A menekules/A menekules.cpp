@@ -3,9 +3,11 @@
 #include <math.h>
 #include <cstdlib>
 #include <vector>
+#include <chrono>
 
 int main()
 {
+    auto start = std::chrono::high_resolution_clock::now();
     std::fstream fs("Text.txt");
     std::ofstream os("Output.txt");
     int lab = 1;
@@ -59,6 +61,9 @@ int main()
     }
     end:
     os << "0";
+    auto end = std::chrono::high_resolution_clock::now();
+    std::chrono::microseconds duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
+    std::cout << duration.count();
     fs.close();
 
     return 0;
