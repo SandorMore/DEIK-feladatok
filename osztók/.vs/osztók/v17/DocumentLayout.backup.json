@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB057-9B77-4F71-BC6C-9C50551035A5}|oszt\u00F3k\\oszt\u00F3k.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\oszt\u00F3k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB057-9B77-4F71-BC6C-9C50551035A5}|oszt\u00F3k\\oszt\u00F3k.vcxproj|solutionrelative:oszt\u00F3k\\oszt\u00F3k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB057-9B77-4F71-BC6C-9C50551035A5}|oszt\u00F3k\\oszt\u00F3k.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D14DB057-9B77-4F71-BC6C-9C50551035A5}|oszt\u00F3k\\oszt\u00F3k.vcxproj|solutionrelative:oszt\u00F3k\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\Text.txt",
+              "RelativeDocumentMoniker": "oszt\u00F3k\\Text.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\Text.txt",
+              "RelativeToolTip": "oszt\u00F3k\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-30T17:26:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oszt\u00F3k.cpp",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\oszt\u00F3k.cpp",
+              "RelativeDocumentMoniker": "oszt\u00F3k\\oszt\u00F3k.cpp",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\oszt\u00F3k\\oszt\u00F3k\\oszt\u00F3k.cpp",
+              "RelativeToolTip": "oszt\u00F3k\\oszt\u00F3k.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T17:06:19.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

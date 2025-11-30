@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95FD39-6482-4D24-B80E-D5AFEEE685EE}|PIN\\PIN.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\PIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F95FD39-6482-4D24-B80E-D5AFEEE685EE}|PIN\\PIN.vcxproj|solutionrelative:PIN\\PIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95FD39-6482-4D24-B80E-D5AFEEE685EE}|PIN\\PIN.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F95FD39-6482-4D24-B80E-D5AFEEE685EE}|PIN\\PIN.vcxproj|solutionrelative:PIN\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\Text.txt",
+              "RelativeDocumentMoniker": "PIN\\Text.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\Text.txt",
+              "RelativeToolTip": "PIN\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-29T14:01:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PIN.cpp",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\PIN.cpp",
+              "RelativeDocumentMoniker": "PIN\\PIN.cpp",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\PIN\\PIN\\PIN.cpp",
+              "RelativeToolTip": "PIN\\PIN.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T13:02:50.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|solutionrelative:K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|solutionrelative:K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E107AE1C-48D0-4F10-AE40-4B6E0128B9D1}|K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.vcxproj|solutionrelative:K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text1.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt",
+              "RelativeDocumentMoniker": "K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt",
+              "RelativeToolTip": "K\u00FCl\u00F6nb\u00F6z\u0151\\Text1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-29T20:40:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt",
+              "RelativeDocumentMoniker": "K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt",
+              "RelativeToolTip": "K\u00FCl\u00F6nb\u00F6z\u0151\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-29T20:13:13.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K\u00FCl\u00F6nb\u00F6z\u0151.cpp",
+              "DocumentMoniker": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp",
+              "RelativeDocumentMoniker": "K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp",
+              "ToolTip": "C:\\Users\\Sanyi\\Desktop\\DEIK-feladatok\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp",
+              "RelativeToolTip": "K\u00FCl\u00F6nb\u00F6z\u0151\\K\u00FCl\u00F6nb\u00F6z\u0151.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T20:10:41.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
